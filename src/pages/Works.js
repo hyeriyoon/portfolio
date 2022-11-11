@@ -8,7 +8,6 @@ import Portfolio from '../images/destop-portfolio.png';
 export default function Works() {
   return (
     <section className='home-works'>
-      {/* <h1>Works</h1> */}
         <Work 
           image={MovieSt}
           title='Movie st.'
