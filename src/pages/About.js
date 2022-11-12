@@ -1,7 +1,5 @@
 import React from 'react'
 import Skill from '../components/Skill';
-import Tab from 'react-bootstrap/Tab';
-import Tabs from 'react-bootstrap/Tabs';
 
 export default function About() {
   return (
@@ -9,10 +7,8 @@ export default function About() {
       
         <article className='about-story'>
           <h2>Story</h2>
-          <p>Praesent at massa id nisl rhoncus malesuada a eu dui. 
-            Curabitur eget rhoncus odio. Pellentesque porta orci 
-            maximus turpis porta ullamcorper. Ut in dolor viverra, 
-            viverra neque in, fermentum dolor. 
+          <p>
+          Hi! My name is Hyeri Yoon. I am a passionate front end developer and designer who like to code things from scratch, and enjoy bringing ideas to life in the browser. 
           </p>
         </article>
          

@@ -25,7 +25,7 @@ export default function Works() {
           image={Portfolio}
           title='Portfolio'
           tools='| React, Git, Adobe XD, Adobe Photoshop'
-          description='web application built using React that allows users to dynamically browse and track favourite movies based on popularity, rating, and release date.'
+          description=''
           single_path="/works/portfolio"
         />
     </section>
