@@ -1,8 +1,7 @@
 import React from 'react';
 import Work from '../components/Work';
 import MovieSt from '../images/desktop-moviest.png';
-import moviest from '../images/movie-st.png';
-import Tweeling from '../images/desktop-tweeling.png';
+    import Tweeling from '../images/desktop-tweeling.png';
 import Portfolio from '../images/destop-portfolio.png';
 
 export default function Works() {
