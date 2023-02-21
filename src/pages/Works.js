@@ -25,7 +25,7 @@ export default function Works() {
           image={Portfolio}
           title='Portfolio'
           tools='| React, Git, Adobe XD, Adobe Photoshop'
-          description=''
+          description='My portfolio website is built to showcase my development and design works and also display my passion and abilities.'
           single_path="/works/portfolio"
         />
     </section>
