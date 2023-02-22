@@ -3,6 +3,7 @@ import Work from '../components/Work';
 import MovieSt from '../images/desktop-moviest.png';
 import Tweeling from '../images/desktop-tweeling.png';
 import Portfolio from '../images/destop-portfolio.png';
+import SaveTheBunny from '../images/desktop-savethebunny.png';
 
 export default function Works() {
   return (
@@ -22,7 +23,7 @@ export default function Works() {
           single_path="/works/tweeling-bakery"
         />
         <Work 
-          image={Portfolio}
+          image={SaveTheBunny}
           title='Save the Bunny'
           tools='| HTML, CSS, JavaScript, Adobe XD, Adobe Photoshop'
           description=''

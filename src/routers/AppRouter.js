@@ -17,6 +17,7 @@ import PageNotFound from '../pages/PageNotFound';
 import Moviest from '../pages/Moviest';
 import TweelingBakery from '../pages/TweelingBakery';
 import Portfolio from '../pages/Portfolio';
+import SaveTheBunny from '../pages/SaveTheBunny';
 
 
 export default function AppRouter() {
@@ -33,6 +34,7 @@ export default function AppRouter() {
           <Route path="/works/moviest" element={<Moviest /> }/>
           <Route path="/works/tweeling-bakery" element={<TweelingBakery /> }/>
           <Route path="/works/portfolio" element={<Portfolio /> }/>
+          <Route path="/works/savethebunny" element={<SaveTheBunny /> }/>
           <Route path="*" element={<PageNotFound/>}/>
         </Routes>
       </main>
