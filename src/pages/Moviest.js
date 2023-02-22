@@ -7,7 +7,7 @@ export default function Moviest() {
       <SingleWork 
         title="Movie St."
         image={moviest}
-        github='https://github.com/FergzMask/MovieDB.git'
+        github='https://github.com/hyeriyoon/moviest.git'
         project='https://www.haileeyoon.com/moviest'
         subtitle='Movie Database App'
         tools="React, SASS, Git, Adobe XD, Adobe Photoshop"
